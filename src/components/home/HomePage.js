@@ -6,9 +6,7 @@ class HomePage extends Component {
         return (
             <div className="jumbotron">
                 <h1>React Practice</h1>
-                <div>A really simple app to play around with Redux and React-Router ect.</div>
-                <Link to="about" className="btn btn-primary btn-lg">To learn more</Link>
-                
+                <div>A really simple app to play around with Redux and React-Router ect.</div>                
             </div>
         );
     }
